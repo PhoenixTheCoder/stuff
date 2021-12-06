@@ -13,3 +13,6 @@
 ### https://github.com
 ### https://target.com
 ### https://webstore.google.com
+### chrome://crosh
+### chrome://flags
+### chrome://extensions
