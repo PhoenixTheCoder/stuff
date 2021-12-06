@@ -12,3 +12,4 @@
 ### https://paypal.com
 ### https://github.com
 ### https://target.com
+### https://webstore.google.com
