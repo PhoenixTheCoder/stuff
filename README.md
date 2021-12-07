@@ -1,6 +1,6 @@
 # Links
 
-### https://www.google.com
+### https://google.com
 ### https://discord.com
 ### https://bing.com
 ### https://www.youtube.com
