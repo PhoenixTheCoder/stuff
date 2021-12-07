@@ -1,6 +1,6 @@
 # Links
 
-### https://www.google.com
+### https://google.com
 ### https://discord.com
 ### https://bing.com
 ### https://www.youtube.com
@@ -12,7 +12,7 @@
 ### https://paypal.com
 ### https://github.com
 ### https://target.com
-### https://webstore.google.com
-### https://chrome://crosh
-### https://chrome://flags
-### https://chrome://extensions
+### https://chrome.google.com/webstore
+### [chrome://crosh](chrome://crosh)
+### [chrome://flags](chrome://flags)
+### [chrome://extensions](chrome://extensions)
